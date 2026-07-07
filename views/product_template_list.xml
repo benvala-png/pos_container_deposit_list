@@ -16,6 +16,11 @@
                     optional="hide"
                     string="Deposit Product"
                 />
+                <field
+                    name="write_date"
+                    optional="hide"
+                    string="Dernière modification"
+                />
             </xpath>
         </field>
     </record>
