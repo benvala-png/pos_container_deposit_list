@@ -1,5 +1,9 @@
 # pos_container_deposit_list (Odoo 16)
 
+> **In English —** Shows the `pos_container_deposit` (OCA) fields as optional columns in the product list, to review deposit settings in bulk. Superseded by [product_template_list_extra](https://github.com/benvala-png/product_template_list_extra), which includes these columns; kept for reference.
+
+*Documentation below is in French.*
+
 Petit addon Odoo 16, écrit pour IPELLE, qui expose les champs `is_deposit` et
 `deposit_product_id` (ajoutés par `pos_container_deposit`) comme **colonnes
 optionnelles** dans la liste des fiches produit — pour pouvoir les voir et les

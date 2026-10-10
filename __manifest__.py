@@ -4,7 +4,7 @@
     "category": "Point of Sale",
     "summary": "Adds is_deposit and deposit_product_id as optional columns"
     " in the product.template list view.",
-    "author": "Benjamin Valachi",
+    "author": "Benjamin Van Laethem",
     "website": "https://github.com/benvala-png/pos_container_deposit_list",
     "license": "AGPL-3",
     "depends": ["pos_container_deposit"],
